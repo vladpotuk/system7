@@ -47,7 +47,7 @@ namespace system7
             }
             catch (TaskCanceledException)
             {
-                // Race cancelled
+                
             }
         }
 
