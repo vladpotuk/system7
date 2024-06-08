@@ -7,6 +7,7 @@ using System.Windows;
 using System.Windows.Controls;
 
 namespace system7
+
 {
     public partial class MainWindow : Window
     {
