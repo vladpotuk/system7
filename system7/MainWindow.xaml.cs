@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace _08._06._2024
+namespace system7
 {
     public partial class MainWindow : Window
     {
